@@ -47,7 +47,8 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-<img width="1148" height="803" alt="Screenshot 2026-10-25 151435" src="https://github.com/user-attachments/assets/d97d8192-adda-4cfa-9449-01b10cbf6014" />
+<img width="1251" height="955" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/61caefcf-9cbb-44a5-ab66-db0b69153d33" />
+
 
 # CLASS DIAGRAM
 
@@ -63,7 +64,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="737" height="572" alt="Screenshot 2026-10-25 151853" src="https://github.com/user-attachments/assets/7ae2f748-b756-4938-aaf9-03fcaae6b9e9" />
+<img width="1246" height="963" alt="Screenshot 2026-10-26 110730" src="https://github.com/user-attachments/assets/79ce71f9-7878-43ca-b93b-e7b6b84617dd" />
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -71,7 +73,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
-<img width="741" height="567" alt="Screenshot 2026-10-25 151928" src="https://github.com/user-attachments/assets/37ff75a9-142a-4ca8-855d-b58eaa61cf45" />
+<img width="1233" height="940" alt="Screenshot 2026-10-30 111028" src="https://github.com/user-attachments/assets/8cddbb72-4a59-423e-9ffd-d09615be7177" />
+
 # PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
@@ -81,7 +84,8 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-<img width="1118" height="677" alt="Screenshot 2026-10-25 151948" src="https://github.com/user-attachments/assets/8e496ad0-bc87-48a1-9ed4-5abd93c25149" />
+<img width="1211" height="970" alt="Screenshot 2026-11-03 134611" src="https://github.com/user-attachments/assets/750a9424-56e5-42d1-8afc-b921b735749c" />
+
 
 # ACTIVITY DIAGRAM:
 
